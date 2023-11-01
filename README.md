@@ -9,8 +9,22 @@ Ensino alunos do ensino médio e superior conceitos de introdução à programa�
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbazo&show_icons=true&theme=dark)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gbazo&layout=compact&theme=dark)
 
-📫 Contato
+## 📫 Contato
 Sinta-se à vontade para me seguir aqui no GitHub ou entrar em contato diretamente pelo e-mail: bazot3@hotmail.com
+
+## 📱 Redes Sociais
+
+<p>
+  <a href="https://www.instagram.com/profgabigol/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:bazot3@hotmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gbazo/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 <!--
 **gbazo/gbazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
