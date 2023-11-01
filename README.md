@@ -1,6 +1,6 @@
 ### Olá, sou Professor Gabriel 👋
 
-🎓 Me chamo Gabriel Bazo, sou Ciêntista da computação pela Fatece, Especialista pela Univesp e Mestre pela Universidade de São Paulo e apaixonado por ensinar e explorar o mundo da tecnologia e pesquisa. Atualmente, trabalho como professor no Centro Paula Souza e no Centro Universitário barão de Mauá.
+🎓 Me chamo Gabriel Bazo, sou Ciêntista da computação pela Fatece, Especialista pela Univesp, Mestre pela Universidade de São Paulo e apaixonado por ensinar e explorar o mundo da tecnologia e pesquisa. Atualmente, trabalho como professor no Centro Paula Souza e no Centro Universitário barão de Mauá.
 
 ## 🚀 Ensino
 Ensino alunos do ensino médio e superior conceitos de introdução à programação, web, banco de dados, segurança e redes. Além disso oriento trabalhos de iniciação científica e conclusão de curso.
